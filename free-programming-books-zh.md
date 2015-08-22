@@ -133,7 +133,7 @@
 
 
 ### HTML / CSS
-* [HTML5 教程](http://www.w3school.com.cn/html5/)
+* [HTML/HTML5 教程](http://www.runoob.com/)
 * [学习 CSS 布局](http://zh.learnlayout.com/)
 * [CSS参考手册](http://css.doyoe.com/)
 
