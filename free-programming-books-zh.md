@@ -64,6 +64,7 @@
 
 #### 版本控制
 * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [廖雪峰Git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/)
 * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
 * [Git 参考手册](http://gitref.justjavac.com/)
